@@ -18,7 +18,7 @@
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/WIDS-Guard.git
+git clone https://github.com/purushotham044/WIDS-Guard.git
 cd WIDS-Guard
 2️⃣ Install the required dependencies:
 
