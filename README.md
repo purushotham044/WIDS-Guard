@@ -17,7 +17,7 @@
 ## Installation
 
 #1️⃣ Clone the repository:
-``bash
+````bash
 git clone https://github.com/purushotham044/WIDS-Guard.git
 
 cd WIDS-Guard
