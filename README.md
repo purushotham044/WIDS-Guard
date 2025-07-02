@@ -16,22 +16,27 @@
 
 ## Installation
 
-1️⃣ Clone the repository:
-```bash
+#1️⃣ Clone the repository:
+``bash
 git clone https://github.com/purushotham044/WIDS-Guard.git
+
 cd WIDS-Guard
-2️⃣ Install the required dependencies:
+
+#2️⃣ Install the required dependencies:
 
 pip install scapy flask pandas matplotlib
 Usage
+
 On Linux
 Check your WiFi interface:
 
 ip a
+
 and update the script:
 
 INTERFACE = "wlan0"
 if needed.
+
 
 Run the script:
 
