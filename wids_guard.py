@@ -1,8 +1,3 @@
-# WiFi Intrusion Detection & Auto Defense System (WIDS-Guard)
-# Author: Purushotham T
-# Purpose: For GitHub advanced cybersecurity + networking + Python portfolio
-# Dependencies: scapy, flask, pandas, matplotlib, subprocess
-
 from scapy.all import ARP, Ether, srp, sniff
 from flask import Flask, render_template_string
 import threading
