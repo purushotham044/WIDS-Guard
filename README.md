@@ -1,8 +1,6 @@
 
 # 🛡️ WIDS-Guard: WiFi Intrusion Detection & Auto Defense System
 
-## 🚀 Overview
-
 **WIDS-Guard** is an advanced **WiFi Intrusion Detection System (IDS)** built using **Python, Scapy, Flask, and Linux networking**.
 
 It actively monitors your WiFi network to:
